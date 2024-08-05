@@ -14,7 +14,7 @@ Project Description:<br>
 The purpose of this project is to cut down on decision making time and assist customers in picking a new TV show to watch. This will help keep customers satisfied with a streaming service as the recommended shows will be based on previous ones the customer liked per their input and help to create a customized selection. Users who are on the same account but have different preferences may interfere with other recommender systems as other systems are based on tracking show likes and searches. The recommendations from this project are through a search feature rather than tracking allowing multiple users to use the same profile.
 
 Files Needed:<br>
-	&ensp;&ensp;&ensp;TV_show_data.csv<br>
+	&ensp;&ensp;&ensp;TV_show_data_updated.csv<br>
 	&ensp;&ensp;&ensp;TV_Show_Recommendation_System.ipynb
 
 How to Run: <br>
